@@ -21,3 +21,9 @@ gender-predictor/
 │── index.html
 │── style.css
 │── script.js
+
+▶️ How It Works
+User enters a name
+App sends request to API
+API returns predicted gender
+Result is displayed on screen
