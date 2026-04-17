@@ -27,3 +27,10 @@ User enters a name
 App sends request to API
 API returns predicted gender
 Result is displayed on screen
+
+💡 Future Improvements
+Add loading spinner ⏳
+Show probability percentage
+Add error handling for invalid inputs
+Support multiple languages 🌍
+Improve animations
