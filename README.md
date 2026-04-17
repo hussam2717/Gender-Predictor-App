@@ -1,7 +1,7 @@
 # Gender-Predictor-App
 A simple and modern Gender Predictor Web App built using HTML, CSS, and JavaScript. It predicts gender based on a given name using an external API.
 
-Live Demo - 
+Live Demo - https://hussam2717.github.io/Gender-Predictor-App/
 
 🚀 Features
 🔍 Predict gender from name input
