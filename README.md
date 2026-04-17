@@ -9,3 +9,9 @@ Live Demo -
 🎨 Clean and modern UI design
 📱 Responsive layout
 🧠 Beginner-friendly project
+
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript (ES6)
+Gender Prediction API (e.g., Genderize.io)
