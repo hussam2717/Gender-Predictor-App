@@ -15,3 +15,9 @@ HTML5
 CSS3
 JavaScript (ES6)
 Gender Prediction API (e.g., Genderize.io)
+
+📂 Project Structure
+gender-predictor/
+│── index.html
+│── style.css
+│── script.js
